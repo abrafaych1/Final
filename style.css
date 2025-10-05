@@ -211,6 +211,7 @@ body{
     font-weight: bold;
     font-size: 19px;
     line-height: 39px;
+    list-style-type:none;
 }
 .pet-1 ul li:hover{
     color: rgb(255, 49, 90) ;
@@ -599,4 +600,5 @@ body{
    
 
     
+
 
